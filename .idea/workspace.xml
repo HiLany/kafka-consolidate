@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9f2fcfd-26a2-455a-8df9-505d9fbbfbb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/toolkit_smartfox_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-consolidate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/lany/apitest/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/lany/apitest/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/lany/custom/CustomInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/lany/custom/CustomPartition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/lany/transactiontest/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/lany/transactiontest/ReadProcessWrite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -158,7 +145,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595383488963</updated>
       <workItem from="1595383491965" duration="19739000" />
-      <workItem from="1595408259804" duration="132000" />
+      <workItem from="1595408259804" duration="818000" />
     </task>
     <servers />
   </component>
